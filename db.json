@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": "de8a7aa5-07af-4d4a-948f-89eecf08c50f",
+      "image": "https://picsum.photos/400",
+      "title": "Hello World",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "d8de1a4c-23ac-4f4a-91de-80cb3d866637",
+      "canBorrow": "true"
+    },
+    {
+      "id": "67d93997-a0c5-4572-a394-8429c629bbaa",
+      "image": "https://i1.wp.com/portugalconfidential.com/wp-content/uploads/2019/09/Harry-Potter-Exhibition-Lisbon-feature-1.jpg?resize=750%2C400&ssl=1",
+      "title": "Harry Poter",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "d8de1a4c-23ac-4f4a-91de-80cb3d866637"
+    },
+    {
+      "id": "88e596ea-e6ce-45f6-a535-712a4f9befcd",
+      "image": "https://i1.wp.com/portugalconfidential.com/wp-content/uploads/2019/09/Harry-Potter-Exhibition-Lisbon-feature-1.jpg?resize=750%2C400&ssl=1",
+      "title": "Harry Poter",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "158a2e93-e257-4f5a-8cc7-aaf9bbf4d7ae"
+    },
+    {
+      "id": "c37e8640-0aec-460e-b43e-5894292e27f3",
+      "image": "https://picsum.photos/400",
+      "title": "Hello World",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": "c5e55d4f-6948-46d0-a989-16a3da111237"
+    }
+  ],
+  "users": [
+    {
+      "id": "158a2e93-e257-4f5a-8cc7-aaf9bbf4d7ae",
+      "avatar": "https://picsum.photos/400",
+      "name": "Dar Naper",
+      "email": "dnaper0@slashdot.org",
+      "phone": "576-873-3070"
+    },
+    {
+      "id": "c5e55d4f-6948-46d0-a989-16a3da111237",
+      "avatar": "https://picsum.photos/400",
+      "name": "Roth Kaemena",
+      "email": "rkaemena1@adobe.com",
+      "phone": "651-160-7666"
+    },
+    {
+      "id": "d8de1a4c-23ac-4f4a-91de-80cb3d866637",
+      "avatar": "https://picsum.photos/400",
+      "name": "Bram Woollett",
+      "email": "bwoollett2@columbia.edu",
+      "phone": "436-471-3828"
+    }
+  ]
+}
